@@ -1,0 +1,214 @@
+body {
+ background-color: hsl(224, 100%, 94%);
+ font-family: "red hat display";
+ margin: auto;
+ height: 100vh;
+ 
+}
+
+main {
+ width: 16rem;
+ height: 25rem;
+ background-color: #fff;
+ position: absolute;
+ top: 16%;
+ left: 40%; 
+ 
+ 
+ border-radius: 14px;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ justify-content: space-between;
+ 
+}
+
+.background-desktop {
+ 
+ width: 70%;
+ height: auto;
+ position: relative;
+  
+ left: 15%;
+}
+
+.hero {
+ width: 100%;
+ height: 30%;
+ border-radius: 12px 12px 0 0;
+}
+
+h1 {
+ color:hsl(223, 47%, 23%);
+ margin-bottom: 0;
+ font-weight: bolder;
+ font-size: 1.2rem;
+}
+
+p {
+ color: hsl(224, 23%, 55%);
+ font-size: .6rem;
+ text-align: center;
+ margin-top: 0;
+ margin-bottom: 2px;
+ padding-left: 22px;
+ padding-right: 22px;
+}
+
+section {
+ display: flex;
+ flex-direction: row;
+}
+
+h2 {
+ font-size: .7rem;
+}
+
+h3 {
+ font-size: .6rem;
+}
+
+.info {
+ background-color: hsl(225, 100%, 98%);
+ width: 80%;
+ border-radius: 8px;
+ margin-bottom: 5px;
+ padding-top: 5px;
+ padding-bottom: 5px;
+}
+
+.icon-music {
+ width: 33px;
+ height: 33px;
+ padding-top: 7px;
+ padding-left: 12px;
+ padding-right: 10px;
+}
+
+.plan {
+ display: flex;
+ flex-direction: column;
+}
+
+.annual {
+ color:hsl(223, 47%, 23%);
+ margin-bottom: 1px;
+}
+
+.price {
+ margin-top: 1px;
+ color: hsl(224, 23%, 55%);
+}
+
+.change-plan {
+ padding-top: 6px;
+}
+
+.change{
+ color: hsl(245, 75%, 52%);
+ margin-left: 35px;
+}
+
+.proceed-payment {
+ text-decoration: none;
+ color: #fff;
+ background-color: hsl(245, 75%, 52%);
+ text-align: center;
+ border-radius: 7px;
+ padding-top: 10px;
+ padding-left: 55px;
+ padding-right: 55px;
+ padding-bottom: 10px;
+ filter: drop-shadow(0px 15px 10px hsl(225, 100%, 90%));
+}
+
+.proceed-payment:hover {
+ background-color: hsl(245, 75%, 52%, .7);
+}
+
+.cancel-order {
+ margin-top: 0;
+ margin-bottom: 17px;
+ padding-bottom: 5px;
+}
+
+.cancel {
+ color:hsl(223, 47%, 23%);
+ text-decoration: none;
+}
+
+.change:hover {
+ text-decoration: none;
+}
+
+@media screen and (max-width: 1120px) {
+ main {
+  top: 10%;
+  left: 6.5%;
+  width: 87%;
+  height: 80%;
+  border-radius: 18px;
+ }
+  .background-desktop {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 300px;
+  
+}
+
+h1 {
+  font-size: 1.5rem;
+  font-weight: bolder;
+}
+
+.info {
+  border-radius: 10px;
+  padding-right: 10px;
+}
+
+p {
+ font-size: 1rem;
+ padding-left: 36px;
+ padding-right: 36px;
+}
+
+.icon-music {
+  width: 40px;
+  height: 40px;
+  padding-bottom: 10px;
+  padding-right: 16px;
+  margin-left: 0;
+}
+
+.proceed-payment {
+  padding-left: 75px;
+  padding-right: 75px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 10px;
+  font-size: .8rem;
+}
+
+.change-plan {
+  margin-top: 15px;
+  padding-left: 33px;
+  font-size: .7rem;
+}
+
+.cancel-order {
+  font-size: .8rem;
+}
+
+.annual,
+.price {
+  font-size: .8rem;
+}
+
+}
+
+
+
+
+
+
