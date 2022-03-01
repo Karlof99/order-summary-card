@@ -32,7 +32,7 @@ https://github.com/Karlof99/order-summary-card/blob/master/assets/Order-summary-
 ### Links
 
 - Solution URL: https://github.com/Karlof99/order-summary-card/
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://karlof99.github.io/order-summary-card/
 
 ## My process
 
