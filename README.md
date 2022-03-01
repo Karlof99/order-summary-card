@@ -27,12 +27,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
+https://github.com/Karlof99/order-summary-card/blob/master/assets/Order-summary-screenshot.png
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/Karlof99/order-summary-card/
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -54,8 +53,8 @@ I want to improve my hability in HTML, CSS, JS, Flexbox, Grid, Bootstrap, Webflo
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - Carlos Ortiz (page in construction)
+- Frontend Mentor - https://www.frontendmentor.io/profile/Karlof99
 
 
 
